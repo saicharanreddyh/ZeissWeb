@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeissWeb", "ZeissWeb\ZeissWeb.csproj", "{5BB7E536-F9D7-42FF-B98C-3719263F4812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB7E536-F9D7-42FF-B98C-3719263F4812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB7E536-F9D7-42FF-B98C-3719263F4812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB7E536-F9D7-42FF-B98C-3719263F4812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB7E536-F9D7-42FF-B98C-3719263F4812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87ACED0E-693F-4E77-AC85-3CFFE554E076}
+	EndGlobalSection
+EndGlobal
